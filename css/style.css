@@ -1,0 +1,56 @@
+h1 {
+	color: blue;
+}
+
+body { 
+	background: #f4f4f4;
+	font-family: sans-serif;
+	font-weight: normal
+
+	line height:16px;
+} 
+.container {
+	width: 50%;
+	margin: auto;
+	align-content: right;
+}
+
+.box-1 {
+	background-color: #333;
+	border:5px blue solid;
+	padding: 20px;
+	font:white;
+	margin:20px;
+	color:white;
+	border-radius: 30px;
+	text-align: center;
+
+
+}
+
+.box-1 label{
+	display:block;
+}
+.box-1 input{
+	padding: 10px;
+	width: 80%;
+}
+footer {
+	margin-top: 30px;
+}
+.container input {
+	padding:10px;
+	width:90%;
+}
+.button:hover{
+	background-color: blue;
+
+}
+.button {
+	border-radius: 5px;
+}
+
+#main-header{
+	background-color: #333;
+	width: 100%;
+}
